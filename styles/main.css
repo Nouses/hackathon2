@@ -1,0 +1,63 @@
+.nombre {
+    padding: 15px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+   
+}
+
+.apellido {
+    padding: 15px;
+    
+    
+}
+
+.email {
+    padding: 15px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+}
+
+.tel {
+    padding: 15px;
+  
+}
+
+h2{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+
+.formulario{
+    width: 500px;
+    height: 480px;
+    background-color:rgb(22,135,160);
+}
+
+textarea{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom:15px;
+}
+
+.boton{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 40px;
+    padding-left: 40px;
+    line-height: 40px;
+    background-color: rgb(35,52,81) ;
+    font-size:20px;
+    font-family:Verdana,Helvetica;
+    font-weight:bold;
+    color:white; 
+    border-color: rgb(35,52,81);  
+}
+
+form{
+    text-align: center;
+}
